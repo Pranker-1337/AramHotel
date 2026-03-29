@@ -1,0 +1,5 @@
+{
+  "name": "Aram Hotel Dushanbe",
+  "description": "Premium boutique hotel in the heart of Dushanbe, Tajikistan. Comfortable rooms, modern amenities, and warm hospitality.",
+  "requestFramePermissions": ["geolocation"]
+}
